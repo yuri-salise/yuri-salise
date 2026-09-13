@@ -204,12 +204,12 @@ const engineer: SoftwareEngineer = {
 ### 📊 GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuri-salise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Yuri's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-salise&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-tau-six.vercel.app/api?username=yuri-salise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Yuri's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-tau-six.vercel.app/api/top-langs/?username=yuri-salise&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuri-salise&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=yuri-salise&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
